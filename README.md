@@ -25,13 +25,13 @@ A total of 12,000 patients enrolled through three different access pathways duri
 ## Business Questions
 The analysis was designed to answer the following leadership questions:
 
-1	Which pathway drives the highest patient enrollment?
+1	 Which pathway drives the highest patient enrollment?
 
-2	Which pathway generates the strongest revenue per patient?
+2	 Which pathway generates the strongest revenue per patient?
 
-3	Does higher patient engagement justify higher operational cost?
+3	 Does higher patient engagement justify higher operational cost?
 
-4	How did revenue evolve over the 12-week pilot?
+4	 How did revenue evolve over the 12-week pilot?
 
 These insights inform program expansion strategy.
 
@@ -126,7 +126,7 @@ The following factors were not included:
 +	Long-term patient retention
 *	Clinical outcome measurement
 -	Detailed service-level cost breakdown
--	
+  
 Future evaluation should incorporate these elements.
 
 
