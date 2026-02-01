@@ -26,8 +26,11 @@ A total of 12,000 patients enrolled through three different access pathways duri
 The analysis was designed to answer the following leadership questions:
 
 1	Which pathway drives the highest patient enrollment?
+
 2	Which pathway generates the strongest revenue per patient?
+
 3	Does higher patient engagement justify higher operational cost?
+
 4	How did revenue evolve over the 12-week pilot?
 
 These insights inform program expansion strategy.
@@ -44,7 +47,7 @@ Patients enroll independently through an online portal.
 Physicians introduce and enroll patients during consultations.
 
 *	**Care Coordinator–Guided Enrollment**
-*	
+  
 Dedicated coordinators provide personalized enrollment and follow-up support.
 Each pathway requires a different level of staff involvement and operational effort.
 
@@ -101,7 +104,9 @@ Revenue increased steadily across the 12-week pilot, indicating growing adoption
  ## Strategic Interpretation
  
 Digital pathways drive scale.
+
 Higher-engagement pathways drive revenue intensity.
+
 Sustainable program expansion requires balancing both models.
 
 
