@@ -7,9 +7,12 @@
 :warning: This project uses simulated healthcare data for demonstration and learning purposes only. 
 It does not represent real hospital revenue.
 
+
 # Project Title :pushpin:
+
 ## Healthcare Business Intelligence
 ## Revenue Strategy Simulation – Annual Wellness Screening Program
+
 
 ## Project Overview
 This project presents a 12-week pilot analysis of an Annual Wellness Screening Program conducted in a private multi-specialty hospital (strategic simulation).
@@ -21,6 +24,7 @@ The objective was to evaluate which patient access pathway delivers the stronges
 -	Financial sustainability
   
 A total of 12,000 patients enrolled through three different access pathways during the pilot period.
+
 
 ## Business Questions
 The analysis was designed to answer the following leadership questions:
@@ -34,6 +38,7 @@ The analysis was designed to answer the following leadership questions:
 4	 How did revenue evolve over the 12-week pilot?
 
 These insights inform program expansion strategy.
+
 
 
 ## Access Pathways Analyzed
@@ -52,6 +57,7 @@ Dedicated coordinators provide personalized enrollment and follow-up support.
 Each pathway requires a different level of staff involvement and operational effort.
 
 
+
  ## Dataset Overview
  
 -	12,000 patient records
@@ -62,6 +68,7 @@ Each pathway requires a different level of staff involvement and operational eff
 *	Contribution margin
   
 This dataset is a structured simulation created for strategic analysis and portfolio demonstration.
+
 
 
 ## Key Metrics Used
@@ -75,6 +82,7 @@ This dataset is a structured simulation created for strategic analysis and portf
 
 - Service revenue minus pathway-specific operational cost.
 + Used to assess whether higher engagement justifies additional staffing cost.
+
 
 
  ## Key Findings
@@ -101,6 +109,7 @@ Care Coordinator pathway maintained the strongest contribution margin per patien
 Revenue increased steadily across the 12-week pilot, indicating growing adoption and stable performance.
 
 
+
  ## Strategic Interpretation
  
 Digital pathways drive scale.
@@ -110,12 +119,14 @@ Higher-engagement pathways drive revenue intensity.
 Sustainable program expansion requires balancing both models.
 
 
+
 ## Recommendations
 
 -	Continue using Digital Self-Enrollment as the primary scalable pathway.
 +	Deploy Care Coordinator–Guided Enrollment selectively for higher-value segments.
 *	Position Physician-Initiated Enrollment as supportive rather than primary.
 -	Expand data collection to include long-term retention and service-level cost details.
+
 
 
 ## Assumptions & Considerations
@@ -130,6 +141,7 @@ The following factors were not included:
 Future evaluation should incorporate these elements.
 
 
+
 ## Technical Approach
 
 Tools used:
@@ -138,11 +150,13 @@ Tools used:
 *	Grouped aggregations
 
 
+
 ## Visualizations Included :bar_chart:
 
 -	Enrollment by pathway
 +	Revenue distribution boxplots
 *	Weekly trend line charts
+
 
 
 ## Repository Structure :paperclip:
@@ -157,6 +171,7 @@ Tools used:
     Access_Pathway_Strategy_Presentation.pptx
 
 /README.md
+
 
 
 ## Author
