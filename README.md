@@ -11,7 +11,7 @@ It does not represent real hospital revenue.
 ## Revenue Strategy Simulation – Annual Wellness Screening Program
 
 
-## :mag: 1. Project Overview
+## :open_book: 1. Project Overview
 This project presents a 12-week pilot analysis of an Annual Wellness Screening Program conducted in a private multi-specialty hospital (strategic simulation).
 The objective was to evaluate which patient access pathway delivers the strongest balance between:
 
@@ -38,7 +38,7 @@ These insights inform program expansion strategy.
 
 
 
-## Access Pathways Analyzed
+## :hospital: Access Pathways Analyzed
 
 -	**Digital Self-Enrollment**
   
@@ -55,7 +55,7 @@ Each pathway requires a different level of staff involvement and operational eff
 
 
 
- ## Dataset Overview
+ ## :card_index_dividers: Dataset Overview
  
 -	12,000 patient records
 +	12-week pilot period
@@ -68,7 +68,7 @@ This dataset is a structured simulation created for strategic analysis and portf
 
 
 
-## Key Metrics Used
+## :triangular_ruler: Key Metrics Used
 
 **Revenue Yield per Enrolled Patient (RYP)**
 
@@ -82,7 +82,7 @@ This dataset is a structured simulation created for strategic analysis and portf
 
 
 
- ## Key Findings
+ ## :chart_with_upwards_trend: Key Findings
 1 **Enrollment Volume**
 
 Digital Self-Enrollment recorded the highest patient volume due to scalability and low staff dependency.
@@ -107,7 +107,7 @@ Revenue increased steadily across the 12-week pilot, indicating growing adoption
 
 
 
- ## Strategic Interpretation
+ ## :compass: Strategic Interpretation
  
 Digital pathways drive scale.
 
@@ -117,7 +117,7 @@ Sustainable program expansion requires balancing both models.
 
 
 
-## Recommendations
+## :white_check_mark: Recommendations
 
 -	Continue using Digital Self-Enrollment as the primary scalable pathway.
 +	Deploy Care Coordinator–Guided Enrollment selectively for higher-value segments.
@@ -126,7 +126,7 @@ Sustainable program expansion requires balancing both models.
 
 
 
-## Assumptions & Considerations
+## :warning: Assumptions & Considerations
 This analysis is based on a 12-week pilot simulation.
 The following factors were not included:
 
@@ -139,7 +139,7 @@ Future evaluation should incorporate these elements.
 
 
 
-## Technical Approach
+## :computer: Technical Approach
 
 Tools used:
 -	Python (Pandas, NumPy, Matplotlib)
@@ -148,7 +148,7 @@ Tools used:
 
 
 
-## Visualizations Included :bar_chart:
+## :bar_chart: Visualizations Included 
 
 -	Enrollment by pathway
 +	Revenue distribution boxplots
@@ -156,7 +156,7 @@ Tools used:
 
 
 
-## Repository Structure :paperclip:
+## :file_folder: Repository Structure 
 
 /data
     annual_wellness_revenue_simulation.csv
@@ -179,7 +179,7 @@ Tools used:
 
 
 
-## Author
+## :bust_in_silhouette: Author
 Deborah Akhabue
 
 Healthcare Data Analyst
