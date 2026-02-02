@@ -42,7 +42,7 @@ The objective was to evaluate which patient access pathway delivers the stronges
   
 A total of 12,000 patients enrolled through three different access pathways during the pilot period.
 
-
+<a id="business-questions"></a>
 ## :question: 2. Business Questions
 The analysis was designed to answer the following leadership questions:
 
@@ -57,7 +57,7 @@ The analysis was designed to answer the following leadership questions:
 These insights inform program expansion strategy.
 
 
-
+<a id="access-pathways"></a>
 ## :hospital: 3. Access Pathways Analyzed
 
 -	**Digital Self-Enrollment**
@@ -74,7 +74,7 @@ Dedicated coordinators provide personalized enrollment and follow-up support.
 Each pathway requires a different level of staff involvement and operational effort.
 
 
-
+<a id="dataset-overview"></a>
  ## :card_index_dividers: 4. Dataset Overview
  
 -	12,000 patient records
@@ -87,7 +87,7 @@ Each pathway requires a different level of staff involvement and operational eff
 This dataset is a structured simulation created for strategic analysis and portfolio demonstration.
 
 
-
+<a id="key-metrics"></a>
 ## :triangular_ruler: 5. Key Metrics Used
 
 **Revenue Yield per Enrolled Patient (RYP)**
@@ -101,7 +101,7 @@ This dataset is a structured simulation created for strategic analysis and portf
 + Used to assess whether higher engagement justifies additional staffing cost.
 
 
-
+<a id="key-findings"></a>
  ## :chart_with_upwards_trend: 6. Key Findings
 1 **Enrollment Volume**
 
@@ -126,7 +126,7 @@ Care Coordinator pathway maintained the strongest contribution margin per patien
 Revenue increased steadily across the 12-week pilot, indicating growing adoption and stable performance.
 
 
-
+<a id="strategic-interpretation"></a>
  ## :compass: 7. Strategic Interpretation
  
 Digital pathways drive scale.
@@ -136,7 +136,7 @@ Higher-engagement pathways drive revenue intensity.
 Sustainable program expansion requires balancing both models.
 
 
-
+<a id="recommendations"></a>
 ## :white_check_mark: 8. Recommendations
 
 -	Continue using Digital Self-Enrollment as the primary scalable pathway.
@@ -145,7 +145,7 @@ Sustainable program expansion requires balancing both models.
 -	Expand data collection to include long-term retention and service-level cost details.
 
 
-
+<a id="assumptions"></a>
 ## :warning: 9. Assumptions & Considerations
 This analysis is based on a 12-week pilot simulation.
 The following factors were not included:
@@ -158,7 +158,7 @@ The following factors were not included:
 Future evaluation should incorporate these elements.
 
 
-
+<a id="technical-approach"></a>
 ## :computer: 10. Technical Approach
 
 Tools used:
@@ -167,7 +167,7 @@ Tools used:
 *	Grouped aggregations
 
 
-
+<a id="visualizations"></a>
 ## :bar_chart: Visualizations Included 
 
 -	Enrollment by pathway
@@ -175,7 +175,7 @@ Tools used:
 *	Weekly trend line charts
 
 
-
+<a id="repo-structure"></a>
 ## :file_folder: Repository Structure 
 
 /data
@@ -198,7 +198,7 @@ Tools used:
 /README.md
 
 
-
+<a id="author"></a>
 ## :bust_in_silhouette: Author
 Deborah Akhabue
 
