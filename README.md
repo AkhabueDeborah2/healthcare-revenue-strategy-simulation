@@ -9,19 +9,18 @@ It does not represent real hospital revenue.
 
 
 ## Table of Contents
-
 - [Project Overview](#project-overview)
 - [Business Questions](#business-questions)
-- [Access Pathways Analyzed](#access-pathways-analyzed)
+- [Access Pathways Analyzed](#access-pathways)
 - [Dataset Overview](#dataset-overview)
-- [Key Metrics Used](#key-metrics-used)
+- [Key Metrics Used](#key-metrics)
 - [Key Findings](#key-findings)
 - [Strategic Interpretation](#strategic-interpretation)
 - [Recommendations](#recommendations)
-- [Assumptions & Considerations](#assumptions--considerations)
+- [Assumptions & Considerations](#assumptions)
 - [Technical Approach](#technical-approach)
-- [Visualizations Included](#visualizations-included)
-- [Repository Structure](#repository-structure)
+- [Visualizations Included](#visualizations)
+- [Repository Structure](#repo-structure)
 - [Author](#author)
 
 
