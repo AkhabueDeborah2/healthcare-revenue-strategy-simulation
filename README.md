@@ -26,7 +26,7 @@ It does not represent real hospital revenue.
 - [:bust_in_silhouette: Author](#bust_in_silhouette-author)
 
 
-## Revenue Strategy Simulation – Annual Wellness Screening Program
+## :pushpin: Revenue Strategy Simulation – Annual Wellness Screening Program
 
 
 ## :open_book: 1. Project Overview
