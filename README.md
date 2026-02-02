@@ -1,4 +1,5 @@
-# healthcare-revenue-strategy-simulation
+# Healthcare Revenue Strategy | Strategic Simulation Analysis
+*****
 12-week healthcare revenue and access pathway simulation using Python
 
 
