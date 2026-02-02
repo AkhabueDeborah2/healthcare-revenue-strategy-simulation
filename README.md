@@ -23,7 +23,7 @@ The objective was to evaluate which patient access pathway delivers the stronges
 A total of 12,000 patients enrolled through three different access pathways during the pilot period.
 
 
-## Business Questions
+## :question: 2. Business Questions
 The analysis was designed to answer the following leadership questions:
 
 1	 Which pathway drives the highest patient enrollment?
