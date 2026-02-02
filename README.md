@@ -29,6 +29,8 @@ It does not represent real hospital revenue.
 
 ## Revenue Strategy Simulation – Annual Wellness Screening Program
 
+<a id="project-overview"></a>
+## :book: Project Overview
 
 ## :open_book: 1. Project Overview
 This project presents a 12-week pilot analysis of an Annual Wellness Screening Program conducted in a private multi-specialty hospital (strategic simulation).
