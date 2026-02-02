@@ -164,6 +164,11 @@ Tools used:
 /data
     annual_wellness_revenue_simulation.csv
 
+/images
+     Patients by Access Pathway
+     Spread_of_Service_Revenue_by_Access_Pathway
+     Overall_Weekly_Revenue_Yield_per_Patient
+
 /notebooks
     access_pathway_strategy_simulation_analysis.ipynb
 
