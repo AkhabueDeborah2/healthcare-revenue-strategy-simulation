@@ -24,8 +24,10 @@ It does not represent real hospital revenue.
 - [Author](#author)
 
 
+<a id="project-title"></a>
+## :pushpin: Project Title
 
-## :pushpin: Revenue Strategy Simulation – Annual Wellness Screening Program
+## Revenue Strategy Simulation – Annual Wellness Screening Program
 
 
 ## :open_book: 1. Project Overview
