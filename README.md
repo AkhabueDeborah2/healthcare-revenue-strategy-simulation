@@ -5,7 +5,7 @@
 
 ## Strategic Simulation Disclaimer
 
-:warning: This project uses simulated healthcare data for demonstration and learning purposes only. 
+:warning: This project uses simulated healthcare data created for demonstration and portfolio purposes only. 
 It does not represent real hospital revenue.
 
 
