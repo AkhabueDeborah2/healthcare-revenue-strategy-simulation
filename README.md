@@ -116,8 +116,8 @@ Care Coordinator–Guided Enrollment generated the highest revenue per patient, 
 
  **3. Revenue Distribution**
 
-Care Coordinator pathway showed the widest revenue range.
-Digital pathway showed moderate spread.
+Care Coordinator pathway showed the widest revenue range.  
+Digital pathway showed moderate spread.  
 Physician-Initiated pathway showed the narrowest range and lower revenue values.
 
  **4. Contribution Margin**
