@@ -116,6 +116,13 @@ Care Coordinator–Guided Enrollment generated the highest revenue per patient, 
 
  **3. Revenue Distribution**
 
+ ## 📊 Revenue Distribution by Access Pathway
+
+The boxplot below illustrates the distribution of service revenue across the three access pathways during the 12-week pilot.
+
+![Revenue Distribution by Access Pathway](images/revenue_distribution_boxplot.png)
+
+
 Care Coordinator pathway showed the widest revenue range.  
 Digital pathway showed moderate spread.  
 Physician-Initiated pathway showed the narrowest range and lower revenue values.
