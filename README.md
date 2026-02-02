@@ -165,10 +165,10 @@ Tools used:
     annual_wellness_revenue_simulation.csv
 
 /notebooks
-    analysis.ipynb
+    access_pathway_strategy_simulation_analysis.ipynb
 
 /presentation
-    Access_Pathway_Strategy_Presentation.pptx
+    Annual_Wellness_Screening_Revenue_Strategy.pptx
 
 /README.md
 
