@@ -38,7 +38,7 @@ These insights inform program expansion strategy.
 
 
 
-## :hospital: Access Pathways Analyzed
+## :hospital: 3. Access Pathways Analyzed
 
 -	**Digital Self-Enrollment**
   
@@ -55,7 +55,7 @@ Each pathway requires a different level of staff involvement and operational eff
 
 
 
- ## :card_index_dividers: Dataset Overview
+ ## :card_index_dividers: 4. Dataset Overview
  
 -	12,000 patient records
 +	12-week pilot period
@@ -68,7 +68,7 @@ This dataset is a structured simulation created for strategic analysis and portf
 
 
 
-## :triangular_ruler: Key Metrics Used
+## :triangular_ruler: 5. Key Metrics Used
 
 **Revenue Yield per Enrolled Patient (RYP)**
 
@@ -82,7 +82,7 @@ This dataset is a structured simulation created for strategic analysis and portf
 
 
 
- ## :chart_with_upwards_trend: Key Findings
+ ## :chart_with_upwards_trend: 6. Key Findings
 1 **Enrollment Volume**
 
 Digital Self-Enrollment recorded the highest patient volume due to scalability and low staff dependency.
@@ -107,7 +107,7 @@ Revenue increased steadily across the 12-week pilot, indicating growing adoption
 
 
 
- ## :compass: Strategic Interpretation
+ ## :compass: 7. Strategic Interpretation
  
 Digital pathways drive scale.
 
@@ -117,7 +117,7 @@ Sustainable program expansion requires balancing both models.
 
 
 
-## :white_check_mark: Recommendations
+## :white_check_mark: 8. Recommendations
 
 -	Continue using Digital Self-Enrollment as the primary scalable pathway.
 +	Deploy Care Coordinator–Guided Enrollment selectively for higher-value segments.
@@ -126,7 +126,7 @@ Sustainable program expansion requires balancing both models.
 
 
 
-## :warning: Assumptions & Considerations
+## :warning: 9. Assumptions & Considerations
 This analysis is based on a 12-week pilot simulation.
 The following factors were not included:
 
@@ -139,7 +139,7 @@ Future evaluation should incorporate these elements.
 
 
 
-## :computer: Technical Approach
+## :computer: 10. Technical Approach
 
 Tools used:
 -	Python (Pandas, NumPy, Matplotlib)
