@@ -165,7 +165,8 @@ Tools used:
     annual_wellness_revenue_simulation.csv
 
 /images
-     Patients by Access Pathway
+
+     Patients_by_Access_Pathway
      
      Spread_of_Service_Revenue_by_Access_Pathway
      
