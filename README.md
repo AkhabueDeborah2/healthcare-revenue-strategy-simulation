@@ -166,7 +166,9 @@ Tools used:
 
 /images
      Patients by Access Pathway
+     
      Spread_of_Service_Revenue_by_Access_Pathway
+     
      Overall_Weekly_Revenue_Yield_per_Patient
 
 /notebooks
