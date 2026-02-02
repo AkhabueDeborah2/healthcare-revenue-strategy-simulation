@@ -8,9 +8,6 @@
 It does not represent real hospital revenue.
 
 
-# Project Title :pushpin:
-
-## Healthcare Business Intelligence
 ## Revenue Strategy Simulation – Annual Wellness Screening Program
 
 
