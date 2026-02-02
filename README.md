@@ -42,7 +42,7 @@ The objective was to evaluate which patient access pathway delivers the stronges
   
 A total of 12,000 patients enrolled through three different access pathways during the pilot period.
 
-📊 The full executive presentation is available here [Annual Wellness Revenue Strategy](https://github.com/AkhabueDeborah2/healthcare-revenue-strategy-simulation/tree/main/presentation)
+📊 The full executive presentation is available here [Annual Wellness Revenue Strategy Presentation](https://github.com/AkhabueDeborah2/healthcare-revenue-strategy-simulation/tree/main/presentation)
 
 
 <a id="business-questions"></a>
