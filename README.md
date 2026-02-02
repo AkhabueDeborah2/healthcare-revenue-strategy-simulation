@@ -8,6 +8,24 @@
 It does not represent real hospital revenue.
 
 
+## Table of Contents
+
+- [:pushpin: Project Title](#pushpin-project-title)
+- [:book: Project Overview](#book-project-overview)
+- [:question: Business Questions](#question-business-questions)
+- [:hospital: Access Pathways Analyzed](#hospital-access-pathways-analyzed)
+- [:card_index_dividers: Dataset Overview](#card_index_dividers-dataset-overview)
+- [:triangular_ruler: Key Metrics Used](#triangular_ruler-key-metrics-used)
+- [:chart_with_upwards_trend: Key Findings](#chart_with_upwards_trend-key-findings)
+- [:compass: Strategic Interpretation](#compass-strategic-interpretation)
+- [:white_check_mark: Recommendations](#white_check_mark-recommendations)
+- [:warning: Assumptions & Considerations](#warning-assumptions--considerations)
+- [:computer: Technical Approach](#computer-technical-approach)
+- [:bar_chart: Visualizations Included](#bar_chart-visualizations-included)
+- [:file_folder: Repository Structure](#file_folder-repository-structure)
+- [:bust_in_silhouette: Author](#bust_in_silhouette-author)
+
+
 ## Revenue Strategy Simulation – Annual Wellness Screening Program
 
 
