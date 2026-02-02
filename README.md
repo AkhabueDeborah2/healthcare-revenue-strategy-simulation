@@ -106,25 +106,25 @@ This dataset is a structured simulation created for strategic analysis and portf
 
 <a id="key-findings"></a>
  ## :chart_with_upwards_trend: 6. Key Findings
-1 **Enrollment Volume**
+ **1. Enrollment Volume**
 
 Digital Self-Enrollment recorded the highest patient volume due to scalability and low staff dependency.
 
-2 **Revenue per Patient**
+**2. Revenue per Patient**
 
 Care Coordinator–Guided Enrollment generated the highest revenue per patient, indicating stronger service uptake among engaged patients.
 
-3 **Revenue Distribution**
+ **3. Revenue Distribution**
 
 Care Coordinator pathway showed the widest revenue range.
 Digital pathway showed moderate spread.
 Physician-Initiated pathway showed the narrowest range and lower revenue values.
 
-4 **Contribution Margin**
+ **4. Contribution Margin**
 
 Care Coordinator pathway maintained the strongest contribution margin per patient despite higher operational cost.
 
-5 **Weekly Trend**
+ **5. Weekly Trend**
 
 Revenue increased steadily across the 12-week pilot, indicating growing adoption and stable performance.
 
