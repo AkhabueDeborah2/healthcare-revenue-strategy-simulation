@@ -10,7 +10,7 @@ It does not represent real hospital revenue.
 
 ## Table of Contents
 - [Project Title](#project-title)
-- [Project Overview](#project-overview)
+- [Executive Summary](#executive-summary)
 - [Business Questions](#business-questions)
 - [Access Pathways Analyzed](#access-pathways)
 - [Dataset Overview](#dataset-overview)
