@@ -188,24 +188,23 @@ Tools used:
 <a id="repo-structure"></a>
 ## :file_folder: Repository Structure 
 
-/data
-    annual_wellness_revenue_simulation.csv
-
-/images
-
-     Patients_by_Access_Pathway
-     
-     Spread_of_Service_Revenue_by_Access_Pathway
-     
-     Overall_Weekly_Revenue_Yield_per_Patient
-
-/notebooks
-    access_pathway_strategy_simulation_analysis.ipynb
-
-/presentation
-    Annual_Wellness_Screening_Revenue_Strategy.pptx
-
-/README.md
+```
+Healthcare Revenue Strategy | Strategic Simulation Analysis/
+│
+├── data/
+│   └── annual_wellness_revenue_simulation.csv
+├── images/
+│   ├── Patients_by_Access_Pathway
+│   ├── Spread_of_Service_Revenue_by_Access_Pathway
+│   └── Overall_Weekly_Revenue_Yield_per_Patient
+│
+├── notebooks/
+│   └── access_pathway_strategy_simulation_analysis.ipynb
+├── presentation/
+│   └── Annual_Wellness_Screening_Revenue_Strategy.pptx
+│
+└── README.md
+```   
 
 
 <a id="author"></a>
